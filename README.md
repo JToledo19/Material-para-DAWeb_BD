@@ -1,6 +1,6 @@
 # Material-para-DAWeb_BD
 tenemos link de referencia mas documentos agosto 2024
-
+- Jorge Toledo
 ## Desarrollo web
 - desarrollo web en tecnologia fundamentales como css, html y javascrip
 - https://www.eniun.com/cursos-diseno-desarrollo-web/
